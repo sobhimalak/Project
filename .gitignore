@@ -1,0 +1,14 @@
+/ml/
+/.vscode/
+/data_untrained/
+/External Libraries/
+/venv/
+```
+I have tried to add the following to my .gitignore file:
+```
+**/venv/
+```
+But it does not seem to work. I have also tried to add the following to my .gitignore file:
+```
+**/venv/**
+```
